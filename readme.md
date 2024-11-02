@@ -11,3 +11,4 @@
 9. git checkout master
 10. git branch -d rama-ronald
 11. git push
+12. git commit -adm "todo OK"
